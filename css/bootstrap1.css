@@ -1,0 +1,37 @@
+.d{
+    display: flex;
+}
+.jcc{
+    justify-content: center;
+}
+.jcb{
+    justify-content: space-between;
+}
+.jce{
+    justify-content: space-evenly;
+}
+.jca{
+    justify-content: space-around;
+}
+.aic{
+    align-items: center;
+}
+.aie{
+    align-items: end;
+}
+.top-left-0{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 0;
+}
+.fc{
+    flex-direction: column;
+}
+.link{
+    list-style: none;
+}
+.link a{
+    text-decoration: none;
+}
